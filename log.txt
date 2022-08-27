@@ -1,0 +1,9 @@
+26/08/2022 22:48:53https://www.alura.com.br/-online: true
+26/08/2022 22:48:54https://www.google.com/-online: true
+26/08/2022 22:48:55https://www.teste.com.br/-online: true
+26/08/2022 22:49:00https://www.alura.com.br/-online: true
+26/08/2022 22:49:00https://www.google.com/-online: true
+26/08/2022 22:49:01https://www.teste.com.br/-online: true
+26/08/2022 22:49:06https://www.alura.com.br/-online: true
+26/08/2022 22:49:06https://www.google.com/-online: true
+26/08/2022 22:49:07https://www.teste.com.br/-online: true
